@@ -1,4 +1,7 @@
 .btn{
-    padding: 1em 2em;
-    background-color: red;
+  padding: 0.8em 1.6em;
+  background: linear-gradient(90deg,cyan,blue);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
 }
